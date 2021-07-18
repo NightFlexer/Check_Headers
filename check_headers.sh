@@ -14,4 +14,4 @@ elif [[ $b -eq 503 ]]; then
     exit 2
 else echo "Другой код состояния http"
 fi
-#--end
+#--ver.: 1.2
